@@ -1,0 +1,31 @@
+Geometry Visualiser
+
+
+
+This is a Geometry Visualiser made using Python.
+It helps users understand basic geometry by drawing shapes and calculating measurements.
+
+Features:
+
+Plot 2D shapes (point, line, triangle)
+
+Plot 3D shapes (still working one)
+
+Find distance between two points
+
+Find area of a triangle
+
+Find angle between two lines
+
+
+ Tools Used:
+
+Python
+
+Matplotlib
+
+Math module
+
+ Conclusion:
+
+The Geometry Visualiser makes learning geometry easier and more interactive by combining visual graphs with simple mathematical calculations.
